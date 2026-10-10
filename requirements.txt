@@ -1,0 +1,12 @@
+# Core dependencies
+yt-dlp>=2024.0
+click>=8.0
+
+# GUI dependencies (optional)
+# customtkinter>=5.0
+# Pillow>=9.0
+
+# Extras (optional)
+# pyperclip>=1.8
+# mutagen>=1.45
+# requests>=2.28
